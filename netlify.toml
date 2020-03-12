@@ -17,7 +17,7 @@
 
 # Netlify subdomain
 [[redirects]]
-    from = "https://virga.netlify.com/*"
-    to = "https://virga.frontendweekly.tokyo/:splat"
+    from = "https://dazzling-blackwell-1fa6a3.netlify.com/*"
+    to = "https://dazzling-blackwell-1fa6a3.netlify.com/:splat"
     status = 301
     force = true

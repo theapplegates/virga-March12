@@ -1,8 +1,8 @@
 /* TEAM */
-Yuya Saito
-Site: hello@studiomohawk.com
-Twitter: @cssradar
-Location: Tokyo, Japan
+Paul Applegate
+Site: me@paulapplegate.com
+Twitter: @papplegate
+Location: Ohio, USA
 
 /* THANKS */
 Andy Bell — for Hylia (https://github.com/hankchizljaw/hylia)

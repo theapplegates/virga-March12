@@ -1,8 +1,8 @@
 ---
 layout: home
-title: Virga — A minimum Eleventy starter kit
+title: Living Life
 postsHeading: Latest posts
 archiveButtonText: See all posts
 ---
 
-Virga is very minimum Eleventy starter kit for who love to extend kit yourself. It is based on [Hylia](https://hylia.website/) which is created by [Andy Bell](https://hankchizljaw.com/).
+Please excuse the mess while I move into this starter/theme. It is based on [Hylia](https://hylia.website/) which is created by [Andy Bell](https://hankchizljaw.com/).
