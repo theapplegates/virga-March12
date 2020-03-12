@@ -14,10 +14,3 @@
     X-Content-Type-Options = "nosniff"
     Referrer-Policy= "origin-when-cross-origin"
     Strict-Transport-Security= "max-age=86400"
-
-# Netlify subdomain
-[[redirects]]
-    from = "https://dazzling-blackwell-1fa6a3.netlify.com/*"
-    to = "https://dazzling-blackwell-1fa6a3.netlify.com/:splat"
-    status = 301
-    force = true
